@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal-tariq/Desktop/fake-news-mlops/fake-news-mlops/mlruns/0/a9a0a042edff48dd902ffd8ad86c6527/artifacts
+end_time: 1746370139725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a0a042edff48dd902ffd8ad86c6527
+run_name: traveling-mare-300
+run_uuid: a9a0a042edff48dd902ffd8ad86c6527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746370134842
+status: 3
+tags: []
+user_id: bilal-tariq

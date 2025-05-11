@@ -1,0 +1,24 @@
+apiVersion: machinelearning.seldon.io/v1
+kind: SeldonDeployment
+metadata:
+  name: fake-news-classifier
+  #namespace: default
+spec:
+  name: fake-news-classifier
+  predictors:
+  - name: default
+    replicas: 1
+    graph:
+      name: classifier
+      type: MODEL
+      endpoint:
+        type: REST
+    componentSpecs:
+    - spec:
+        containers:
+        - name: classifier
+          image: ibilaltariq/fake-news-classifier:1.0
+          imagePullPolicy: IfNotPresent
+          ports:
+          - containerPort: 9000
+

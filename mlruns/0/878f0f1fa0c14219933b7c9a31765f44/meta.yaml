@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal-tariq/Desktop/fake-news-mlops/fake-news-mlops/mlruns/0/878f0f1fa0c14219933b7c9a31765f44/artifacts
+end_time: 1746940834384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 878f0f1fa0c14219933b7c9a31765f44
+run_name: fortunate-shad-215
+run_uuid: 878f0f1fa0c14219933b7c9a31765f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746940829717
+status: 3
+tags: []
+user_id: bilal-tariq

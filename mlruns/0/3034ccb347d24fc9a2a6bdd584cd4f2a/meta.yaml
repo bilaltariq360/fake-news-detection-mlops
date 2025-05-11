@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal-tariq/Desktop/fake-news-mlops/fake-news-mlops/mlruns/0/3034ccb347d24fc9a2a6bdd584cd4f2a/artifacts
+end_time: 1746937006912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3034ccb347d24fc9a2a6bdd584cd4f2a
+run_name: silent-jay-782
+run_uuid: 3034ccb347d24fc9a2a6bdd584cd4f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746937001801
+status: 3
+tags: []
+user_id: bilal-tariq

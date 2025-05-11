@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal-tariq/Desktop/fake-news-mlops/fake-news-mlops/mlruns/0/14730cce271344a9b83c7578e3612c7b/artifacts
+end_time: 1746941130776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14730cce271344a9b83c7578e3612c7b
+run_name: loud-kit-522
+run_uuid: 14730cce271344a9b83c7578e3612c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746941126240
+status: 3
+tags: []
+user_id: bilal-tariq
